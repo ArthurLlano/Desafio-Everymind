@@ -1,0 +1,15 @@
+[
+    {
+      "id": 1,
+      "nome": "Bola de futebol",
+      "descricao": "Bola de Futebol edição Copa do Mundo",
+      "preco": "R$100"
+    },
+    {
+      "id": 2,
+      "nome": "Raquete de Tênis",
+      "descricao": "Raquete do Rafael Nadal",
+      "preco": "R$250"
+    }
+  ]
+  
